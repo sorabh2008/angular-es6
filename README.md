@@ -2,7 +2,7 @@
 Sample code - beginner
 
 Transform response in AngularJS
-```
+```javascript
 		return $http({
 			  url: url,
 			  method: 'POST',
