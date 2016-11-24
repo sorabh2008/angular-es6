@@ -14,3 +14,8 @@ Transform response in AngularJS
 				}
 			});
 ```
+
+Proxy vs Reverse Proxy
+```
+http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server
+```
