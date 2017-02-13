@@ -16,3 +16,8 @@ Node-red
 fcm - firebase cloud messaging
 web sockets pubsub
 ```
+
+Plunker - e-mail masking
+```
+https://plnkr.co/edit/9VnKjVq9UQz1iwWTdC3m?p=preview
+```
