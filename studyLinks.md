@@ -21,3 +21,8 @@ Plunker - e-mail masking
 ```
 https://plnkr.co/edit/9VnKjVq9UQz1iwWTdC3m?p=preview
 ```
+
+Github link angular1.5 - es5
+```
+https://github.com/karkranikhil/employeeApp_using_angular1.5
+```
